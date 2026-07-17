@@ -36,6 +36,12 @@ The proposed Hierarchical-XPNet is an **inherently explainable hierarchical stru
 
 Thus this model aims to offer a clear explanation to the diagnosis of a nodule by offering examples while using a thought process similar to that of radiologists, *This appears malignant because it resembles a large.. and malignant.. nodule.*
 
+## Learned Prototypes
+
+<p align="center">
+  <img src="images/proposed_prototypes.png" />
+</p>
+
 ---
 
 ## Project Structure
